@@ -36,3 +36,7 @@ nav:
 
 extra_css:
   - css/extra.css
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
