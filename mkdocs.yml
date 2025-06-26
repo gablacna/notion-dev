@@ -1,28 +1,20 @@
 site_name: Projekt Notion
-theme:
-  name: material
-
-nav:
-  - Strona główna: index.md
-  - Autorzy: autorzy.md
-  - O Notion: o-notion.md
-  - Funkcje: funkcje.md
-  - Konfiguracja: konfiguracja.md
-  - Wdrożenie: wdrozenie.md
-  - Przykłady: przyklady.md
-  - Polityka bezpieczeństwa: polityka-bezpieczenstwa.md
-site_name: Projekt Notion
 site_description: Instrukcja pracy zespołowej z Notion
 site_author: Gabriela Łacna Alicja Niedzielska
 
 theme:
-  name: material
-  logo: logo.png
-  favicon: favicon.ico
+  name: mkdocs
+  locale: en
+  highlightjs: true
+  hljs_style: default
+  nav_style: primary
+  font:
+    text: Roboto
+    code: Roboto Mono
   palette:
-    scheme: default
-    primary: deep purple
+    primary: blue
     accent: light blue
+  style: flatly  # <--- to zostaje, jeśli chcesz styl "flatly"
 
 nav:
   - Strona główna: index.md
@@ -36,6 +28,7 @@ nav:
 
 extra_css:
   - css/extra.css
+
 markdown_extensions:
   - admonition
   - pymdownx.details
