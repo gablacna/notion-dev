@@ -24,5 +24,5 @@ Motion działa w przeglądarce ale dostępna jest również aplikacja.
 - Mobilna: Android i ios (Google play i App Store)
 - Desktop: Windows, macOS
 
-  
+![](img/obraz_2025-06-26_121714133.jpg)  
   
