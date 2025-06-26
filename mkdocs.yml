@@ -1,0 +1,38 @@
+site_name: Projekt Notion
+theme:
+  name: material
+
+nav:
+  - Strona główna: index.md
+  - Autorzy: autorzy.md
+  - O Notion: o-notion.md
+  - Funkcje: funkcje.md
+  - Konfiguracja: konfiguracja.md
+  - Wdrożenie: wdrozenie.md
+  - Przykłady: przyklady.md
+  - Polityka bezpieczeństwa: polityka-bezpieczenstwa.md
+site_name: Projekt Notion
+site_description: Instrukcja pracy zespołowej z Notion
+site_author: Gabriela Łacna Alicja Niedzielska
+
+theme:
+  name: material
+  logo: logo.png
+  favicon: favicon.ico
+  palette:
+    scheme: default
+    primary: deep purple
+    accent: light blue
+
+nav:
+  - Strona główna: index.md
+  - Autorzy: autorzy.md
+  - O Notion: o-notion.md
+  - Funkcje: funkcje.md
+  - Konfiguracja: konfiguracja.md
+  - Wdrożenie: wdrozenie.md
+  - Przykłady: przyklady.md
+  - Polityka bezpieczeństwa: polityka-bezpieczenstwa.md
+
+extra_css:
+  - css/extra.css
