@@ -1,5 +1,5 @@
 # Autorzy projektu
 
 - Gabriela Łacna 428676
-- Alicja Niedzielska
+- Alicja Niedzielska 419002
  
