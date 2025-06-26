@@ -1,5 +1,7 @@
 # Wdrożenie Notion w ogranizacji
 
+![](img/wdr.jpg)  
+
 ## Etapy wdrożenia
 
 ### 1. Analiza potrzeb zespołu
