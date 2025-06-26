@@ -18,7 +18,7 @@ W ramach tego projektu opisujemy wybrane funkcje Notion oraz pokazujemy, jak mo�
 <details>
 <summary><strong>Jak założyć konto w Notion?</strong></summary>
 
-Wejdź na [notion.so](https://www.notion.so), kliknij „Get started” i zarejestruj się przy pomocy e-maila, konta Google lub Apple. Konto podstawowe jest darmowe i pozwala na korzystanie z większości funkcji.
+Wejdź na https://www.notion.com/, kliknij „Get started” i zarejestruj się przy pomocy e-maila, konta Google lub Apple. Konto podstawowe jest darmowe i pozwala na korzystanie z większości funkcji.
 
 </details>
 

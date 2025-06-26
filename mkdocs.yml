@@ -7,14 +7,14 @@ theme:
   locale: en
   highlightjs: true
   hljs_style: default
-  nav_style: primary
   font:
     text: Roboto
     code: Roboto Mono
   palette:
-    primary: blue
-    accent: light blue
-  style: flatly  # <--- to zostaje, jeśli chcesz styl "flatly"
+    primary: indigo
+    accent: pink
+  logo: img/logo.png
+  style: flatly
 
 nav:
   - Strona główna: index.md
