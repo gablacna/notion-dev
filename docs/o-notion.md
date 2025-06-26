@@ -11,5 +11,7 @@ Umożliwia m.in.:
 - pracę zespołową w czasie rzeczywistym.
 
 Notion zyskuje popularność w firmach, szkołach i projektach prywatnych ze względu na swoją elastyczność i prostotę obsługi.
+Notion posiada wbudowana sztuczną inteligencje, która pomaga tworzyć treści, planować zadania i edytować dokumenty. Dzięki temu użytkownik może łatwiej rozpocząć pracę, nawet bez konkretnego pomysłu.
 
 W ramach tego projektu opisujemy wybrane funkcje Notion oraz pokazujemy, jak można go skonfigurować i wykorzystać w zespole.
+![](img/notion.jpg)
